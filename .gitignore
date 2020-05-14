@@ -1,0 +1,3 @@
+checkpoints/pottery_pix2pix/*.pth
+data/pottery/*
+venv/
